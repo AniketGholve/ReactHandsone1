@@ -1,0 +1,16 @@
+.boxC{
+    grid-column: 3/4;
+}
+.boxF{
+    grid-column: 2/3;
+}
+.box{
+    margin-top: 50px;
+    padding: 20px;
+    box-shadow: 2px 2px 2px #2e0760;
+    background-color: #482673;
+}
+.external{
+    font-size: 22px;
+    font-weight: bold;
+}

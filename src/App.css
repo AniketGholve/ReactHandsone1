@@ -1,0 +1,27 @@
+#root {
+  text-align: center;
+}
+.heading{
+  color: rgb(255, 255, 255);
+  font-size: 40px;
+  text-shadow: 5px 5px 5px rgb(0, 0, 0);
+}
+
+.btn{
+  padding: 20px;
+  margin: 40px;
+  border: none;
+  border-radius: 10px;
+  background-color: #fee36e;
+  box-shadow: 10px 5px 10px black;
+  font-weight: bold;
+}
+.btn:hover{
+  background-color: #ceb92c;
+}
+.d-grid{
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  justify-content: center;
+  gap: 20px;
+}
