@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React,{ useState } from 'react';
 import './App.css'
 import { FunctionComp } from './component/FunctionComp'
 import ClassComp from './component/ClassComp'
